@@ -12,3 +12,8 @@
     3. Rename JSON File: Ensure your JSON file is named exactly ClientAppSettings.json without additional words.
     4. Copy JSON File: Move ClientAppSettings.json into the 'ClientSettings' folder.
     5. Restart Roblox: Close and reopen Roblox to apply the new settings.
+
+# ERRORS
+Verify File Integrity: Ensure the JSON file has no syntax errors. You can use online JSON validators to check.
+Check for Updates: Roblox occasionally updates its client. Verify your settings are compatible with the latest version.
+Troubleshooting: If Roblox doesn't behave as expected after the update, revert to the backup settings and consult Roblox support or community forums for guidance.
