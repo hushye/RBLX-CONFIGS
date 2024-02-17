@@ -24,7 +24,9 @@ Optimal: Balances between performance and graphics quality, leveraging voxel ren
 
 # ERRORS
 Verify File Integrity: Ensure the JSON file has no syntax errors. You can use online JSON validators to check.
+
 Check for Updates: Roblox occasionally updates its client. Verify your settings are compatible with the latest version.
+
 Troubleshooting: If Roblox doesn't behave as expected after the update, revert to the backup settings and consult Roblox support or community forums for guidance.
 
 
