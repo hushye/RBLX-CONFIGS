@@ -1,0 +1,13 @@
+{
+ "DFFlagDebugRenderForceTechnologyVoxel": true,
+  "DFIntTaskSchedulerTargetFps": 999,
+  "FFlagDebugGraphicsPreferVulkan": true,
+  "FFlagFixGraphicsQuality": true,
+  "FIntRenderShadowIntensity": 0,
+  "FFlagDisablePostFx": true,
+  "FIntDebugForceMSAASamples": 0,
+  "DFFlagTextureQualityOverrideEnabled": true,
+  "DFIntTextureQualityOverride": 0,
+  "DFIntDebugFRMQualityLevelOverride": 1,
+  "FFlagDebugSkyGray": true
+}
