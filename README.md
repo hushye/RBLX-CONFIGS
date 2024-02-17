@@ -5,3 +5,10 @@
     Graphics Model: Prioritizes a specific graphics rendering model using Vulkan, targeting high FPS and fixed graphics quality, tailored for systems where graphics rendering consistency is key.
 
     Optimal: Balances between performance and graphics quality, leveraging voxel rendering and Vulkan while minimizing post-processing effects, aimed at delivering a balanced user experience with good performance and visual quality.
+
+# HOW TO USE
+    1. Locate Roblox Versions Path: Find the Roblox folder in 'Program Files' or 'Applications'.
+    2. Create Client Settings Folder: Inside the Roblox versions path, make a 'ClientSettings' folder if it doesn't exist.
+    3. Rename JSON File: Ensure your JSON file is named exactly ClientAppSettings.json without additional words.
+    4. Copy JSON File: Move ClientAppSettings.json into the 'ClientSettings' folder.
+    5. Restart Roblox: Close and reopen Roblox to apply the new settings.
