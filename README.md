@@ -8,14 +8,19 @@ Optimal: Balances between performance and graphics quality, leveraging voxel ren
 
 # HOW TO USE
 1. Locate Roblox Versions Path: Find the Roblox folder in 'Program Files' or 'Applications'.
+   
+   ![github1](https://github.com/hushye/RBLX-CONFIGS/assets/160303001/4c05a31a-1952-444f-956e-11e162972ea9)
+  
 2. Create Client Settings Folder: Inside the Roblox versions path, make a 'ClientSettings' folder if it doesn't exist.
+   
+   ![github2](https://github.com/hushye/RBLX-CONFIGS/assets/160303001/cd138ffc-dce4-4419-bd55-d0c182a4c948)
+   
 3. Rename JSON File: Ensure your JSON file is named exactly ClientAppSettings.json without additional words.
+ 
+   ![github3](https://github.com/hushye/RBLX-CONFIGS/assets/160303001/3476a9bd-49e1-460f-8c24-e6390683db2d)
+   
 4. Copy JSON File: Move ClientAppSettings.json into the 'ClientSettings' folder.
 5. Restart Roblox: Close and reopen Roblox to apply the new settings.
-
-![github3](https://github.com/hushye/RBLX-CONFIGS/assets/160303001/3476a9bd-49e1-460f-8c24-e6390683db2d)
-![github2](https://github.com/hushye/RBLX-CONFIGS/assets/160303001/cd138ffc-dce4-4419-bd55-d0c182a4c948)
-![github1](https://github.com/hushye/RBLX-CONFIGS/assets/160303001/4c05a31a-1952-444f-956e-11e162972ea9)
 
 # ERRORS
 Verify File Integrity: Ensure the JSON file has no syntax errors. You can use online JSON validators to check.
